@@ -133,7 +133,6 @@ img {
 
 .main-caption {
   background-color: #2f303a;
-  /* width: 1600px; */
   padding-top: 200px;
   padding-bottom: 200px;
 }
@@ -155,6 +154,7 @@ img {
   height: 50px;
   border-radius: 4px;
   margin: 0 auto;
+  border: none;
 
   font-family: inherit;
   font-weight: 700;
@@ -162,7 +162,6 @@ img {
   line-height: 1.88;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: center;
   letter-spacing: 0.06em;
   color: var(--second-text-color);
