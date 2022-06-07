@@ -385,6 +385,8 @@ img {
   padding: 20px 24px;
   width: 370px;
   border-bottom: 1px solid #eeeeee;
+  border-left: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
   background-color: var(--second-text-color);
 }
 .portfolio-title {
